@@ -9,5 +9,6 @@ public class LindaSchoolApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LindaSchoolApplication.class, args);
 	}
+	
 
 }
