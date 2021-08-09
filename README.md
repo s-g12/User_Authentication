@@ -1,1 +1,1 @@
-# User_Authentication
+Authenticating user before login.
