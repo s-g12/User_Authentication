@@ -10,5 +10,4 @@ public class LindaSchoolApplication {
 		SpringApplication.run(LindaSchoolApplication.class, args);
 	}
 	
-
 }
